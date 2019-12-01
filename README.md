@@ -7,7 +7,7 @@ Just clone this repo to get started.
 This xcode project is designed to go with iPhone, iPads & Macs.
 
 ## iPhone Design
-![iOS app](Documentation/iPhone%20Screen%20Record.mov)
+![iOS app](Documentation/iPhone.gif)
 
 ## Mac Design
-![mac app](Documentation/mac%20Screen%20Record.mov)
+![mac app](Documentation/mac.gif)
